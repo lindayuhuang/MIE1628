@@ -1,2 +1,12 @@
-# MIE1628
-Big Data for Data Science University of Toronto
+# SQL assignment in Hive - Big Data Science 
+**Summary:** This assignment aims to develop knowledge in Unix Commands for HDFS and scripting SQL in Hive. 
+
+**Objective:** 
+1. Practice of Unix commands to assess/move/copy files stored on Hadoop via HDFS and on local system. 
+2. Familiar with assessing cluster, create database and upload tables. 
+3. Practive SQL statements, including CASE, OVER and GROUPBY function, JOINS, and Subquery. 
+
+Datasets: https://www.kaggle.com/martinellis/nhl-game-data
+
+
+
